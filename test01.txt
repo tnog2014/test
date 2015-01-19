@@ -3,3 +3,4 @@ changed
 modified
 master
 aa
+before stash
